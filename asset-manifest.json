@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nao-oficial-project-movie-cards-library/static/css/main.f2916fa2.chunk.css",
+    "main.js": "/nao-oficial-project-movie-cards-library/static/js/main.6717f2ed.chunk.js",
+    "main.js.map": "/nao-oficial-project-movie-cards-library/static/js/main.6717f2ed.chunk.js.map",
+    "runtime-main.js": "/nao-oficial-project-movie-cards-library/static/js/runtime-main.3feb0d76.js",
+    "runtime-main.js.map": "/nao-oficial-project-movie-cards-library/static/js/runtime-main.3feb0d76.js.map",
+    "static/js/2.7593fc51.chunk.js": "/nao-oficial-project-movie-cards-library/static/js/2.7593fc51.chunk.js",
+    "static/js/2.7593fc51.chunk.js.map": "/nao-oficial-project-movie-cards-library/static/js/2.7593fc51.chunk.js.map",
+    "index.html": "/nao-oficial-project-movie-cards-library/index.html",
+    "precache-manifest.297602cdf49a18bda2fc60de8736e5e8.js": "/nao-oficial-project-movie-cards-library/precache-manifest.297602cdf49a18bda2fc60de8736e5e8.js",
+    "service-worker.js": "/nao-oficial-project-movie-cards-library/service-worker.js",
+    "static/css/main.f2916fa2.chunk.css.map": "/nao-oficial-project-movie-cards-library/static/css/main.f2916fa2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3feb0d76.js",
+    "static/js/2.7593fc51.chunk.js",
+    "static/css/main.f2916fa2.chunk.css",
+    "static/js/main.6717f2ed.chunk.js"
+  ]
+}
