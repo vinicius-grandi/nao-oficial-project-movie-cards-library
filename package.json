@@ -2,7 +2,7 @@
   "name": "movie-library-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vinicius-grandi.github.io/non-official-project-movie-cards-library",
+  "homepage": "https://vinicius-grandi.github.io/nao-oficial-project-movie-cards-library",
   "dependencies": {
     "acorn": ">=7.1.1",
     "minimist": ">=1.2.3",
