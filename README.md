@@ -1,1 +1,1 @@
-Tentando fazer deploy do react 
+Aplicação react feita com base em projeto da trybe.
